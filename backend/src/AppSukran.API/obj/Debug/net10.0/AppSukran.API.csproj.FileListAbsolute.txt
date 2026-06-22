@@ -1,0 +1,231 @@
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.Development.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.staticwebassets.endpoints.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.exe
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.deps.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.runtimeconfig.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\scopedcss\bundle\AppSukran.API.styles.css
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.development.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\swae.build.ex.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukra.3A6FBFA9.Up2Date
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\refint\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.genruntimeconfig.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\ref\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.Core.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.SecurityToken.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\DnsClient.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.Contracts.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Bson.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.Core.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Libmongocrypt.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\SharpCompress.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Snappier.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\ZstdSharp.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\linux\native\libmongocrypt.so
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\osx\native\libmongocrypt.dylib
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\win\native\mongocrypt.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.Development.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.staticwebassets.endpoints.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.exe
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.deps.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.runtimeconfig.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.Core.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.SecurityToken.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\DnsClient.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.Contracts.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Bson.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.Core.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Libmongocrypt.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\SharpCompress.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Snappier.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\ZstdSharp.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\linux\native\libmongocrypt.so
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\osx\native\libmongocrypt.dylib
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\win\native\mongocrypt.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\scopedcss\bundle\AppSukran.API.styles.css
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.development.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\swae.build.ex.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukra.3A6FBFA9.Up2Date
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\refint\AppSukran.API.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.genruntimeconfig.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.API\obj\Debug\net10.0\ref\AppSukran.API.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\refint\AppSukran.API.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\appsettings.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.staticwebassets.endpoints.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.exe
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.deps.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.runtimeconfig.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.API.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.Core.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AWSSDK.SecurityToken.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\DnsClient.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MediatR.Contracts.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Driver.Core.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\MongoDB.Libmongocrypt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Snappier.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Infrastructure.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\scopedcss\bundle\AppSukran.API.styles.css
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukra.3A6FBFA9.Up2Date
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\AppSukran.API.genruntimeconfig.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\Debug\net10.0\ref\AppSukran.API.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\AWSSDK.Core.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\AWSSDK.SecurityToken.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\DnsClient.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\FluentValidation.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MediatR.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MediatR.Contracts.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Microsoft.OpenApi.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MongoDB.Bson.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MongoDB.Driver.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MongoDB.Driver.Core.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\MongoDB.Libmongocrypt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\SharpCompress.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Snappier.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\ZstdSharp.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\runtimes\linux\native\libmongocrypt.so
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\runtimes\win\native\mongocrypt.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.API\obj\verify\AppSukran.Infrastructure.dll

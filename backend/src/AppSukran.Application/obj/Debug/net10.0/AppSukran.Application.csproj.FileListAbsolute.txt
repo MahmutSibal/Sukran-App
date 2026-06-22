@@ -1,0 +1,56 @@
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.deps.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukra.A6D331F8.Up2Date
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\refint\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net10.0\ref\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.deps.json
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukra.A6D331F8.Up2Date
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\refint\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\Sukran Web\backend\src\AppSukran.Application\obj\Debug\net10.0\ref\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\refint\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.deps.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukra.A6D331F8.Up2Date
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\ref\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\_verify\out\AppSukran.Application.deps.json
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\_verify\out\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\_verify\out\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\_verify\out\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\sukran_app\backend\src\AppSukran.Application\obj\_verify\out\AppSukran.Domain.pdb
+C:\Users\Mahmu\AppData\Local\Temp\appchk\AppSukran.Application.deps.json
+C:\Users\Mahmu\AppData\Local\Temp\appchk\AppSukran.Application.dll
+C:\Users\Mahmu\AppData\Local\Temp\appchk\AppSukran.Application.pdb
+C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.deps.json
+C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.dll
+C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.pdb

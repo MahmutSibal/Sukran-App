@@ -1,0 +1,12 @@
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\bin\Debug\net9.0\AppSukran.Domain.deps.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\bin\Debug\net9.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\bin\Debug\net9.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\refint\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\ref\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Domain\obj\Debug\net9.0\AppSukran.Domain.csproj.AssemblyReference.cache

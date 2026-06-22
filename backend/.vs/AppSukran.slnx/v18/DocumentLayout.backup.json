@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D2A032-6DDE-6811-BC67-EBE30F80DFA0}|src\\AppSukran.Application\\AppSukran.Application.csproj|c:\\users\\mahmu\\desktop\\sukran_app\\backend\\src\\appsukran.application\\customercards\\commands\\createcustomercardcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D2A032-6DDE-6811-BC67-EBE30F80DFA0}|src\\AppSukran.Application\\AppSukran.Application.csproj|solutionrelative:src\\appsukran.application\\customercards\\commands\\createcustomercardcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|c:\\users\\mahmu\\desktop\\sukran_app\\backend\\src\\appsukran.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|solutionrelative:src\\appsukran.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|c:\\users\\mahmu\\desktop\\sukran_app\\backend\\src\\appsukran.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|solutionrelative:src\\appsukran.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|c:\\users\\mahmu\\desktop\\sukran_app\\backend\\src\\appsukran.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C55123-48DE-5B03-7260-54CEE3B33ACE}|src\\AppSukran.API\\AppSukran.API.csproj|solutionrelative:src\\appsukran.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomerCardCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Application\\CustomerCards\\Commands\\CreateCustomerCardCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\AppSukran.Application\\CustomerCards\\Commands\\CreateCustomerCardCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Application\\CustomerCards\\Commands\\CreateCustomerCardCommandHandler.cs",
+              "RelativeToolTip": "src\\AppSukran.Application\\CustomerCards\\Commands\\CreateCustomerCardCommandHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:12:21.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\AppSukran.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "src\\AppSukran.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:11:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppSukran.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\Program.cs",
+              "RelativeToolTip": "src\\AppSukran.API\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:11:27.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "src\\AppSukran.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.API\\WeatherForecast.cs",
+              "RelativeToolTip": "src\\AppSukran.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:11:24.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

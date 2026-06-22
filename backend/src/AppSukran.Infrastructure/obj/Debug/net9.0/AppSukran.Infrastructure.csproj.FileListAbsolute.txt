@@ -1,0 +1,17 @@
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Infrastructure.deps.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Infrastructure.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Infrastructure.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\bin\Debug\net9.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukra.84A27F73.Up2Date
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\refint\AppSukran.Infrastructure.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\AppSukran.Infrastructure.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Infrastructure\obj\Debug\net9.0\ref\AppSukran.Infrastructure.dll

@@ -1,0 +1,15 @@
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net9.0\AppSukran.Application.deps.json
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net9.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net9.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net9.0\AppSukran.Domain.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\bin\Debug\net9.0\AppSukran.Domain.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.csproj.AssemblyReference.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.AssemblyInfoInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.AssemblyInfo.cs
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukra.A6D331F8.Up2Date
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\refint\AppSukran.Application.dll
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\AppSukran.Application.pdb
+c:\Users\Mahmu\Desktop\app_sukran\backend\src\AppSukran.Application\obj\Debug\net9.0\ref\AppSukran.Application.dll

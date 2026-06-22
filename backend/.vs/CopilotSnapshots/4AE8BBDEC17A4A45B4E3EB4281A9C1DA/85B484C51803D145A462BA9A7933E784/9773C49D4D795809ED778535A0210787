@@ -1,0 +1,60 @@
+﻿using AppSukran.Application.Abstractions.Persistence;
+using AppSukran.Application.Abstractions.Security;
+using AppSukran.Application.Common.Models;
+using AppSukran.Domain.Entities;
+using MediatR;
+
+namespace AppSukran.Application.CustomerCards.Commands;
+
+public sealed class CreateCustomerCardCommandHandler(
+    IUnitOfWork unitOfWork,
+    ICardNumberProtectionService cardProtectionService,
+    ICurrentUserService currentUserService)
+    : IRequestHandler<CreateCustomerCardCommand, CustomerCardResponse>
+{
+    public async Task<CustomerCardResponse> Handle(CreateCustomerCardCommand request, CancellationToken cancellationToken)
+    {
+        var userId = currentUserService.UserId ?? throw new InvalidOperationException("User is not authenticated.");
+        if (!cardProtectionService.IsValidCardNumber(request.CardNumber))
+        {
+            throw new InvalidOperationException("Card number is invalid.");
+        }
+
+        if (!cardProtectionService.IsExpiryValid(request.ExpiryMonth, request.ExpiryYear))
+        {
+            throw new InvalidOperationException("Card expiry date is invalid.");
+        }
+
+        var repository = unitOfWork.Repository<CustomerCard>();
+        var existingCards = await repository.GetAllAsync(cancellationToken);
+        var normalizedNumber = cardProtectionService.NormalizeCardNumber(request.CardNumber);
+        var cardHash = cardProtectionService.HashCardNumber(normalizedNumber);
+        var last4 = cardProtectionService.GetLast4(normalizedNumber);
+        var brand = cardProtectionService.DetectBrand(normalizedNumber);
+
+        if (request.IsDefault)
+        {
+            foreach (var card in existingCards.Where(card => card.UserId == userId && card.IsDefault))
+            {
+                card.IsDefault = false;
+                await repository.ReplaceAsync(card, cancellationToken);
+            }
+        }
+
+        var card = new CustomerCard
+        {
+            UserId = userId,
+            CardHash = cardHash,
+            Last4 = last4,
+            CardholderName = request.CardholderName.Trim(),
+            Brand = brand,
+            ExpiryMonth = request.ExpiryMonth,
+            ExpiryYear = request.ExpiryYear,
+            IsDefault = request.IsDefault,
+            IsActive = true
+        };
+
+        await repository.InsertAsync(card, cancellationToken);
+        return new CustomerCardResponse(card.Id, card.CardholderName, card.Brand, card.Last4, card.ExpiryMonth, card.ExpiryYear, card.IsDefault, card.IsActive, card.CreatedAt);
+    }
+}
