@@ -1,13 +1,17 @@
 using AppSukran.Application.Abstractions.Persistence;
+using AppSukran.Application.Common.Security;
 using AppSukran.Domain.Entities;
 using MediatR;
 
 namespace AppSukran.Application.Menus.Commands;
 
-public sealed class CreateMenuItemCommandHandler(IUnitOfWork unitOfWork) : IRequestHandler<CreateMenuItemCommand, string>
+public sealed class CreateMenuItemCommandHandler(IUnitOfWork unitOfWork, IRestaurantAccessGuard restaurantAccessGuard) : IRequestHandler<CreateMenuItemCommand, string>
 {
     public async Task<string> Handle(CreateMenuItemCommand request, CancellationToken cancellationToken)
     {
+        // Çapraz-restoran koruması: kullanıcı yalnızca kendi restoranına ürün ekleyebilir.
+        restaurantAccessGuard.EnsureCanAccess(request.RestaurantId);
+
         var menuItem = new MenuItem
         {
             RestaurantId = request.RestaurantId,

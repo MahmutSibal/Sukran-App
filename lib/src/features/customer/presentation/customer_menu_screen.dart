@@ -277,7 +277,7 @@ class _MenuHeader extends StatelessWidget {
               gradient: AppDark.accentGradient,
               borderRadius: BorderRadius.circular(18),
             ),
-            child: const Icon(Icons.local_dining_rounded, color: Color(0xFF1A1206)),
+            child: const Icon(Icons.local_dining_rounded, color: Color(0xFF000000)),
           ),
           const SizedBox(width: 14),
           Expanded(
@@ -331,7 +331,7 @@ class _CategoryChip extends StatelessWidget {
         child: Text(
           label,
           style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                color: selected ? const Color(0xFF1A1206) : AppDark.textSecondary,
+                color: selected ? const Color(0xFF000000) : AppDark.textSecondary,
                 fontWeight: FontWeight.w800,
               ),
         ),
@@ -467,7 +467,7 @@ class _RoundAddButton extends StatelessWidget {
           color: enabled ? null : AppDark.surfaceHigh,
           borderRadius: BorderRadius.circular(14),
         ),
-        child: Icon(Icons.add_rounded, color: enabled ? const Color(0xFF1A1206) : AppDark.textSecondary, size: 22),
+        child: Icon(Icons.add_rounded, color: enabled ? const Color(0xFF000000) : AppDark.textSecondary, size: 22),
       ),
     );
   }
@@ -612,7 +612,7 @@ class _GoldOrderButton extends StatelessWidget {
         onPressed: onOrder,
         style: FilledButton.styleFrom(
           backgroundColor: Colors.transparent,
-          foregroundColor: const Color(0xFF120D04),
+          foregroundColor: const Color(0xFF000000),
           shadowColor: Colors.transparent,
           padding: const EdgeInsets.symmetric(horizontal: 26, vertical: 18),
         ),

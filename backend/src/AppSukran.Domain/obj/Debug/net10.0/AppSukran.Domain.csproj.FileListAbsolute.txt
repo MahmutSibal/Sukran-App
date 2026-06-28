@@ -43,3 +43,29 @@ C:\Users\Mahmu\AppData\Local\Temp\appchk\AppSukran.Domain.pdb
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Domain.deps.json
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Domain.dll
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.deps.json
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.sourcelink.json
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\refint\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Domain\obj\Debug\net10.0\ref\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.deps.json
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.sourcelink.json
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\refint\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Domain\obj\Debug\net10.0\ref\AppSukran.Domain.dll

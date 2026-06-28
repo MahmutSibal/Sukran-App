@@ -53,6 +53,15 @@ public sealed class RestaurantsController(IMediator mediator) : ControllerBase
         var restaurantId = await mediator.Send(new CreateRestaurantCommand(request.Name, request.Slug, request.OwnerId, request.Longitude, request.Latitude, request.Address), cancellationToken);
         return Ok(new { restaurantId });
     }
+
+    [HttpPut("{restaurantId}")]
+    [Authorize(Roles = "SuperAdmin,RestaurantOwner")]
+    public async Task<IActionResult> Update(string restaurantId, [FromBody] UpdateRestaurantRequest request, CancellationToken cancellationToken)
+    {
+        await mediator.Send(new UpdateRestaurantCommand(restaurantId, request.Name, request.Address, request.Longitude, request.Latitude), cancellationToken);
+        return NoContent();
+    }
 }
 
 public sealed record CreateRestaurantRequest(string Name, string Slug, string OwnerId, double Longitude, double Latitude, string Address);
+public sealed record UpdateRestaurantRequest(string Name, string Address, double Longitude, double Latitude);

@@ -35,7 +35,7 @@ class RestaurantReviewsScreen extends ConsumerWidget {
       ),
       floatingActionButton: FloatingActionButton.extended(
         backgroundColor: AppDark.accent,
-        foregroundColor: const Color(0xFF1A1206),
+        foregroundColor: const Color(0xFF000000),
         onPressed: () => _openComposer(context, ref),
         icon: const Icon(Icons.rate_review_rounded),
         label: const Text('Yorum Yap', style: TextStyle(fontWeight: FontWeight.w800)),
@@ -153,7 +153,7 @@ class RestaurantReviewsScreen extends ConsumerWidget {
               SizedBox(
                 width: double.infinity,
                 child: FilledButton.icon(
-                  style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF1A1206), minimumSize: const Size.fromHeight(48)),
+                  style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF000000), minimumSize: const Size.fromHeight(48)),
                   onPressed: () => Navigator.pop(sheetContext, true),
                   icon: const Icon(Icons.send_rounded, size: 18),
                   label: const Text('Yanıtla', style: TextStyle(fontWeight: FontWeight.w800)),
@@ -618,10 +618,10 @@ class _ReviewComposerState extends ConsumerState<_ReviewComposer> {
             SizedBox(
               width: double.infinity,
               child: FilledButton.icon(
-                style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF1A1206), minimumSize: const Size.fromHeight(52)),
+                style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF000000), minimumSize: const Size.fromHeight(52)),
                 onPressed: (_saving || !_hasPhoto) ? null : _submit,
                 icon: _saving
-                    ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF1A1206)))
+                    ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF000000)))
                     : const Icon(Icons.send_rounded),
                 label: Text(_saving ? 'Gönderiliyor...' : 'Yorumu Gönder', style: const TextStyle(fontWeight: FontWeight.w800)),
               ),
@@ -670,7 +670,7 @@ class _PhotoGate extends StatelessWidget {
             ),
             const SizedBox(height: 12),
             FilledButton.icon(
-              style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF1A1206)),
+              style: FilledButton.styleFrom(backgroundColor: AppDark.accent, foregroundColor: const Color(0xFF000000)),
               onPressed: onTake,
               icon: const Icon(Icons.camera_alt_rounded),
               label: const Text('Fotoğraf Çek', style: TextStyle(fontWeight: FontWeight.w800)),

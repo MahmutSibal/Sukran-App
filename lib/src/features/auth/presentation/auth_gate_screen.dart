@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../../../core/theme/app_dark.dart';
 import '../../customer/presentation/customer_home_shell_screen.dart';
 import '../application/auth_controller.dart';
 import '../domain/app_user_role.dart';
@@ -57,7 +58,7 @@ class _RoleUnavailableScreen extends ConsumerWidget {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                const Icon(Icons.web_rounded, size: 56, color: Colors.orange),
+                const Icon(Icons.web_rounded, size: 56, color: AppDark.accent),
                 const SizedBox(height: 16),
                 const Text(
                   'Bu hesap yalnızca web panelde kullanılabilir.',

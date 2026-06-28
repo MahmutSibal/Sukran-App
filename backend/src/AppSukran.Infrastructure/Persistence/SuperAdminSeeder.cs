@@ -29,8 +29,24 @@ public sealed class SuperAdminSeeder(IServiceScopeFactory scopeFactory, IOptions
 
         var normalizedEmail = settings.Email.Trim().ToLowerInvariant();
         var users = await unitOfWork.Repository<User>().GetAllAsync(cancellationToken);
-        if (users.Any(user => user.Email.Equals(normalizedEmail, StringComparison.OrdinalIgnoreCase)))
+        var existing = users.FirstOrDefault(user => user.Email.Equals(normalizedEmail, StringComparison.OrdinalIgnoreCase));
+
+        if (existing is not null)
         {
+            // Süper admin zaten var: ayarlardaki parola/rol ile uyumlu olduğundan emin ol.
+            // Böylece SuperAdmin parolasını appsettings üzerinden güncelleyip yeniden
+            // başlatmak yeterli olur (aksi halde ilk seed parolası kalıcı olur ve
+            // doğru rol verilmemişse panel uçları 403 döndürür).
+            var passwordMatches = passwordHashingService.VerifyPassword(settings.Password, existing.PasswordHash);
+            var needsUpdate = !passwordMatches || existing.Role != settings.Role || !existing.IsActive;
+            if (needsUpdate)
+            {
+                existing.PasswordHash = passwordHashingService.HashPassword(settings.Password);
+                existing.Role = settings.Role;
+                existing.IsActive = true;
+                await unitOfWork.Repository<User>().ReplaceAsync(existing, cancellationToken);
+            }
+
             return;
         }
 

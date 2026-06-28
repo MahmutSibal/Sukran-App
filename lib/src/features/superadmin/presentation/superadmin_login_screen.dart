@@ -73,7 +73,7 @@ class _SuperAdminLoginScreenState extends ConsumerState<SuperAdminLoginScreen> {
                               gradient: AppDark.accentGradient,
                               borderRadius: BorderRadius.circular(16),
                             ),
-                            child: const Icon(Icons.shield_moon_rounded, color: Color(0xFF1A1206)),
+                            child: const Icon(Icons.shield_moon_rounded, color: Color(0xFF000000)),
                           ),
                           const SizedBox(width: 14),
                           Expanded(
@@ -137,7 +137,7 @@ class _SuperAdminLoginScreenState extends ConsumerState<SuperAdminLoginScreen> {
                           onPressed: _submitting ? null : _submit,
                           style: FilledButton.styleFrom(
                             backgroundColor: Colors.transparent,
-                            foregroundColor: const Color(0xFF120D04),
+                            foregroundColor: const Color(0xFF000000),
                             shadowColor: Colors.transparent,
                             padding: const EdgeInsets.symmetric(vertical: 18),
                           ),
@@ -145,7 +145,7 @@ class _SuperAdminLoginScreenState extends ConsumerState<SuperAdminLoginScreen> {
                               ? const SizedBox(
                                   width: 20,
                                   height: 20,
-                                  child: CircularProgressIndicator(strokeWidth: 2.4, color: Color(0xFF1A1206)),
+                                  child: CircularProgressIndicator(strokeWidth: 2.4, color: Color(0xFF000000)),
                                 )
                               : const Text('Giriş Yap', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 15)),
                         ),

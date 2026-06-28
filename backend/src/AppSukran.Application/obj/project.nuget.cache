@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjBI1yvAefU=",
+  "dgSpecHash": "dSwaq7RdZXo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Application\\AppSukran.Application.csproj",
+  "projectFilePath": "C:\\Users\\Mahmu\\Desktop\\github\\sukran_app\\backend\\src\\AppSukran.Application\\AppSukran.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmu\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Mahmu\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

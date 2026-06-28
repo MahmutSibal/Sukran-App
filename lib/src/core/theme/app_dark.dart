@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-/// Centralised premium dark design tokens for AppSukran.
+/// Centralised siyah-beyaz (monokrom) design tokens for AppSukran.
 ///
-/// "Sade ama hissi son derece güçlü" — a restrained, premium dark visual
-/// language. Every screen pulls its colours, radii, paddings and reusable
-/// surfaces from here so the system stays pixel-consistent.
+/// "Sade ama hissi son derece güçlü" — saf siyah zemin, beyaz vurgu; tüm renkler
+/// gri tonlarına indirgenmiştir. Every screen pulls its colours, radii, paddings
+/// and reusable surfaces from here so the system stays pixel-consistent.
 class AppDark {
   AppDark._();
 
@@ -12,37 +12,35 @@ class AppDark {
   // Colour palette
   // ---------------------------------------------------------------------------
 
-  /// Background gradient — deep emerald to forest green (vertical).
-  /// Pulled directly from the Şükran App logo's green field.
-  static const Color bgTop = Color(0xFF08210F);
-  static const Color bgBottom = Color(0xFF103D24);
+  /// Background gradient — saf siyah → koyu gri (vertical).
+  static const Color bgTop = Color(0xFF000000);
+  static const Color bgBottom = Color(0xFF141414);
 
-  /// Card / container surface — deep green fume.
-  static const Color surface = Color(0xFF143A26);
+  /// Card / container surface — koyu gri.
+  static const Color surface = Color(0xFF1C1C1C);
 
   /// Slightly lifted surface for nested elements / dividers.
-  static const Color surfaceHigh = Color(0xFF1C4A31);
+  static const Color surfaceHigh = Color(0xFF2A2A2A);
 
   /// Input field background.
-  static const Color inputFill = Color(0xFF173E29);
+  static const Color inputFill = Color(0xFF161616);
 
-  /// Accent / primary — warm, saturated soft gold (matte, never neon).
-  /// Matches the logo's gold heart & lettering.
-  static const Color accent = Color(0xFFDDA15E);
+  /// Accent / primary — BEYAZ (üzerine siyah yazı).
+  static const Color accent = Color(0xFFFAFAFA);
 
-  /// Brighter gold used for highlights, glows and gradients.
-  static const Color accentBright = Color(0xFFE9C46A);
+  /// Brighter accent used for highlights, glows and gradients.
+  static const Color accentBright = Color(0xFFFFFFFF);
 
   /// Text colours.
-  static const Color textPrimary = Color(0xFFF5EFE0); // warm ivory
-  static const Color textSecondary = Color(0xFFA9BCAD); // muted sage
+  static const Color textPrimary = Color(0xFFFFFFFF); // beyaz
+  static const Color textSecondary = Color(0xFFA3A3A3); // gri
 
   /// Status colours.
-  static const Color success = Color(0xFF6FCF97);
-  static const Color danger = Color(0xFFFF8A80);
+  static const Color success = Color(0xFFE5E5E5);
+  static const Color danger = Color(0xFF9A9A9A);
 
-  /// Hairline borders on dark surfaces — faint gold.
-  static const Color hairline = Color(0x33DDA15E); // gold @ ~20%
+  /// Hairline borders on dark surfaces — beyaz @ ~20%.
+  static const Color hairline = Color(0x33FFFFFF);
 
   // ---------------------------------------------------------------------------
   // Geometry

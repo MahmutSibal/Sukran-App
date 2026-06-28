@@ -211,7 +211,7 @@ class _PayBillButton extends StatelessWidget {
           ),
           style: FilledButton.styleFrom(
             backgroundColor: Colors.transparent,
-            foregroundColor: const Color(0xFF120D04),
+            foregroundColor: const Color(0xFF000000),
             shadowColor: Colors.transparent,
             padding: const EdgeInsets.symmetric(vertical: 18),
           ),
@@ -361,7 +361,7 @@ class _OrderHeroCard extends StatelessWidget {
               gradient: AppDark.accentGradient,
               borderRadius: BorderRadius.circular(20),
             ),
-            child: const Icon(Icons.receipt_long_rounded, color: Color(0xFF1A1206), size: 30),
+            child: const Icon(Icons.receipt_long_rounded, color: Color(0xFF000000), size: 30),
           ),
           const SizedBox(width: 14),
           Expanded(

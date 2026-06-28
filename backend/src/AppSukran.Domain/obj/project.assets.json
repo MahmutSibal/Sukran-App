@@ -437,11 +437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Domain\\AppSukran.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Mahmu\\Desktop\\github\\sukran_app\\backend\\src\\AppSukran.Domain\\AppSukran.Domain.csproj",
       "projectName": "AppSukran.Domain",
-      "projectPath": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Domain\\AppSukran.Domain.csproj",
+      "projectPath": "C:\\Users\\Mahmu\\Desktop\\github\\sukran_app\\backend\\src\\AppSukran.Domain\\AppSukran.Domain.csproj",
       "packagesPath": "C:\\Users\\Mahmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahmu\\Desktop\\sukran_app\\backend\\src\\AppSukran.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Mahmu\\Desktop\\github\\sukran_app\\backend\\src\\AppSukran.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

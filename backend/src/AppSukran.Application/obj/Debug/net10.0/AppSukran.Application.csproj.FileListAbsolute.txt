@@ -54,3 +54,35 @@ C:\Users\Mahmu\AppData\Local\Temp\appchk\AppSukran.Application.pdb
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.deps.json
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.dll
 C:\Users\Mahmu\AppData\Local\Temp\infrachk\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.deps.json
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.sourcelink.json
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukra.A6D331F8.Up2Date
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\refint\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\github\Sükran App\backend\src\AppSukran.Application\obj\Debug\net10.0\ref\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.deps.json
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\bin\Debug\net10.0\AppSukran.Domain.pdb
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.AssemblyReference.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfoInputs.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.AssemblyInfo.cs
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.sourcelink.json
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukra.A6D331F8.Up2Date
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\refint\AppSukran.Application.dll
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\AppSukran.Application.pdb
+C:\Users\Mahmu\Desktop\github\sukran_app\backend\src\AppSukran.Application\obj\Debug\net10.0\ref\AppSukran.Application.dll

@@ -298,12 +298,12 @@ class _CustomerDiscoverScreenState extends ConsumerState<CustomerDiscoverScreen>
         ),
         child: Row(
           children: [
-            const Icon(Icons.directions_car_rounded, color: Color(0xFF1A1206), size: 20),
+            const Icon(Icons.directions_car_rounded, color: Color(0xFF000000), size: 20),
             const SizedBox(width: 10),
             Expanded(
               child: Text(
                 'Rota: ${route.distanceLabel} • ${route.durationLabel}${route.isFallback ? ' (yaklaşık)' : ''}',
-                style: const TextStyle(color: Color(0xFF1A1206), fontWeight: FontWeight.w800),
+                style: const TextStyle(color: Color(0xFF000000), fontWeight: FontWeight.w800),
               ),
             ),
             InkWell(
@@ -311,7 +311,7 @@ class _CustomerDiscoverScreenState extends ConsumerState<CustomerDiscoverScreen>
               borderRadius: BorderRadius.circular(999),
               child: const Padding(
                 padding: EdgeInsets.all(4),
-                child: Icon(Icons.close_rounded, color: Color(0xFF1A1206), size: 20),
+                child: Icon(Icons.close_rounded, color: Color(0xFF000000), size: 20),
               ),
             ),
           ],
@@ -396,7 +396,7 @@ class _RestaurantCard extends StatelessWidget {
                     gradient: AppDark.accentGradient,
                     borderRadius: BorderRadius.circular(16),
                   ),
-                  child: const Icon(Icons.storefront_rounded, color: Color(0xFF1A1206)),
+                  child: const Icon(Icons.storefront_rounded, color: Color(0xFF000000)),
                 ),
                 const SizedBox(width: 12),
                 Expanded(
@@ -470,7 +470,7 @@ class _RestaurantCard extends StatelessWidget {
                       onPressed: routeLoading ? null : onCreateRoute,
                       style: FilledButton.styleFrom(
                         backgroundColor: Colors.transparent,
-                        foregroundColor: const Color(0xFF120D04),
+                        foregroundColor: const Color(0xFF000000),
                         shadowColor: Colors.transparent,
                         padding: const EdgeInsets.symmetric(vertical: 14),
                       ),
@@ -478,7 +478,7 @@ class _RestaurantCard extends StatelessWidget {
                           ? const SizedBox(
                               width: 16,
                               height: 16,
-                              child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF1A1206)),
+                              child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF000000)),
                             )
                           : const Icon(Icons.route_rounded, size: 18),
                       label: Text(
@@ -569,9 +569,9 @@ class _FeaturedBadge extends StatelessWidget {
       child: const Row(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Icon(Icons.workspace_premium_rounded, size: 12, color: Color(0xFF1A1206)),
+          Icon(Icons.workspace_premium_rounded, size: 12, color: Color(0xFF000000)),
           SizedBox(width: 3),
-          Text('Öne çıkan', style: TextStyle(color: Color(0xFF1A1206), fontSize: 10, fontWeight: FontWeight.w900)),
+          Text('Öne çıkan', style: TextStyle(color: Color(0xFF000000), fontSize: 10, fontWeight: FontWeight.w900)),
         ],
       ),
     );
@@ -606,7 +606,7 @@ class _RestaurantPin extends StatelessWidget {
                 ),
               ],
             ),
-            child: Icon(Icons.restaurant_rounded, color: const Color(0xFF1A1206), size: selected ? 22 : 18),
+            child: Icon(Icons.restaurant_rounded, color: const Color(0xFF000000), size: selected ? 22 : 18),
           ),
           CustomPaint(size: const Size(12, 8), painter: _PinTailPainter(selected: selected)),
         ],
@@ -642,10 +642,10 @@ class _UserDot extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(
-        color: const Color(0xFF4DA3FF),
+        color: const Color(0xFFCFCFCF),
         shape: BoxShape.circle,
         border: Border.all(color: Colors.white, width: 3),
-        boxShadow: [BoxShadow(color: const Color(0xFF4DA3FF).withValues(alpha: 0.6), blurRadius: 12, spreadRadius: 2)],
+        boxShadow: [BoxShadow(color: const Color(0xFFCFCFCF).withValues(alpha: 0.6), blurRadius: 12, spreadRadius: 2)],
       ),
     );
   }

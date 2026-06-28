@@ -27,6 +27,7 @@ public sealed class OrdersController(IMediator mediator) : ControllerBase
         => Ok(await mediator.Send(request, cancellationToken));
 
     [HttpPut("{orderId}/status")]
+    [Authorize(Roles = "SuperAdmin,RestaurantOwner,WaiterCashier")]
     public async Task<IActionResult> UpdateStatus(string orderId, [FromBody] UpdateOrderStatusRequest request, CancellationToken cancellationToken)
     {
         await mediator.Send(new UpdateOrderStatusCommand(orderId, request.SessionStatus), cancellationToken);
@@ -34,6 +35,7 @@ public sealed class OrdersController(IMediator mediator) : ControllerBase
     }
 
     [HttpDelete("{orderId}")]
+    [Authorize(Roles = "SuperAdmin,RestaurantOwner,WaiterCashier")]
     public async Task<IActionResult> Delete(string orderId, CancellationToken cancellationToken)
     {
         await mediator.Send(new DeleteOrderCommand(orderId), cancellationToken);
@@ -41,6 +43,7 @@ public sealed class OrdersController(IMediator mediator) : ControllerBase
     }
 
     [HttpPut("{orderId}/items/{orderItemId}/status")]
+    [Authorize(Roles = "SuperAdmin,RestaurantOwner,WaiterCashier")]
     public async Task<IActionResult> UpdateItemStatus(string orderId, string orderItemId, [FromBody] UpdateOrderItemStatusRequest request, CancellationToken cancellationToken)
     {
         await mediator.Send(new UpdateOrderItemStatusCommand(orderId, orderItemId, request.Status), cancellationToken);

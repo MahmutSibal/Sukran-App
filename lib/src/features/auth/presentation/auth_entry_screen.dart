@@ -171,20 +171,20 @@ class _AuthBackdrop extends StatelessWidget {
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
           colors: [
-            Color(0xFF061A0E),
-            Color(0xFF0B2A18),
-            Color(0xFF103D24),
-            Color(0xFF16482C),
+            Color(0xFF000000),
+            Color(0xFF0A0A0A),
+            Color(0xFF141414),
+            Color(0xFF222222),
           ],
           stops: [0.0, 0.38, 0.72, 1.0],
         ),
       ),
       child: Stack(
         children: const [
-          Positioned(top: -80, left: -70, child: _GlowOrb(size: 220, color: Color(0x33DDA15E))),
-          Positioned(top: 90, right: -90, child: _GlowOrb(size: 280, color: Color(0x2240C47C))),
-          Positioned(bottom: -120, left: 40, child: _GlowOrb(size: 340, color: Color(0x332E7D52))),
-          Positioned(bottom: 110, right: 28, child: _GlowOrb(size: 180, color: Color(0x44E9C46A))),
+          Positioned(top: -80, left: -70, child: _GlowOrb(size: 220, color: Color(0x33FFFFFF))),
+          Positioned(top: 90, right: -90, child: _GlowOrb(size: 280, color: Color(0x22FFFFFF))),
+          Positioned(bottom: -120, left: 40, child: _GlowOrb(size: 340, color: Color(0x33FFFFFF))),
+          Positioned(bottom: 110, right: 28, child: _GlowOrb(size: 180, color: Color(0x44FFFFFF))),
         ],
       ),
     );
@@ -257,10 +257,10 @@ class _AuthCard extends StatelessWidget {
                   Container(
                     padding: const EdgeInsets.all(10),
                     decoration: BoxDecoration(
-                      color: const Color(0xFFD7A45A).withValues(alpha: 0.16),
+                      color: const Color(0xFFFAFAFA).withValues(alpha: 0.16),
                       borderRadius: BorderRadius.circular(14),
                     ),
-                    child: const Icon(Icons.verified_outlined, color: Color(0xFFD7A45A), size: 18),
+                    child: const Icon(Icons.verified_outlined, color: Color(0xFFFAFAFA), size: 18),
                   ),
                 ],
               ),
@@ -284,11 +284,11 @@ class _AuthCard extends StatelessWidget {
                   controller: tabController,
                   indicator: BoxDecoration(
                     gradient: const LinearGradient(
-                      colors: [Color(0xFFD7A45A), Color(0xFFB87A3B)],
+                      colors: [Color(0xFFFAFAFA), Color(0xFFBDBDBD)],
                     ),
                     borderRadius: BorderRadius.circular(18),
                   ),
-                  labelColor: const Color(0xFF11131A),
+                  labelColor: const Color(0xFF111111),
                   unselectedLabelColor: Colors.white70,
                   dividerColor: Colors.transparent,
                   tabs: const [
@@ -405,8 +405,8 @@ class _AuthForm extends StatelessWidget {
                   },
             style: FilledButton.styleFrom(
               minimumSize: const Size.fromHeight(54),
-              backgroundColor: const Color(0xFFD7A45A),
-              foregroundColor: const Color(0xFF11131A),
+              backgroundColor: const Color(0xFFFAFAFA),
+              foregroundColor: const Color(0xFF111111),
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
               textStyle: const TextStyle(fontWeight: FontWeight.w800),
             ),
@@ -471,15 +471,15 @@ class _AuthField extends StatelessWidget {
         ),
         focusedBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(18),
-          borderSide: const BorderSide(color: Color(0xFFD7A45A), width: 1.2),
+          borderSide: const BorderSide(color: Color(0xFFFAFAFA), width: 1.2),
         ),
         errorBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(18),
-          borderSide: const BorderSide(color: Color(0xFFFF8A80)),
+          borderSide: const BorderSide(color: Color(0xFF9A9A9A)),
         ),
         focusedErrorBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(18),
-          borderSide: const BorderSide(color: Color(0xFFFF8A80), width: 1.2),
+          borderSide: const BorderSide(color: Color(0xFF9A9A9A), width: 1.2),
         ),
       ),
     );
@@ -498,14 +498,14 @@ class _HintPill extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
         decoration: BoxDecoration(
-          color: const Color(0xFFD7A45A).withValues(alpha: 0.14),
+          color: const Color(0xFFFAFAFA).withValues(alpha: 0.14),
           borderRadius: BorderRadius.circular(999),
-          border: Border.all(color: const Color(0xFFD7A45A).withValues(alpha: 0.22)),
+          border: Border.all(color: const Color(0xFFFAFAFA).withValues(alpha: 0.22)),
         ),
         child: Text(
           text,
           style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                color: const Color(0xFFF3D29A),
+                color: const Color(0xFFEDEDED),
                 fontWeight: FontWeight.w600,
               ),
         ),
@@ -570,7 +570,7 @@ class _LaunchOverlay extends StatelessWidget {
                             const SizedBox(height: 12),
                             LinearProgressIndicator(
                               value: animation.value,
-                              color: const Color(0xFFD7A45A),
+                              color: const Color(0xFFFAFAFA),
                               backgroundColor: Colors.white.withValues(alpha: 0.08),
                               minHeight: 8,
                             ),

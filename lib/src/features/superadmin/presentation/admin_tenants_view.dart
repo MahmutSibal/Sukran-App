@@ -109,7 +109,7 @@ class _NewTenantButton extends StatelessWidget {
         onPressed: onPressed,
         style: FilledButton.styleFrom(
           backgroundColor: Colors.transparent,
-          foregroundColor: const Color(0xFF120D04),
+          foregroundColor: const Color(0xFF000000),
           shadowColor: Colors.transparent,
           padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
         ),
@@ -144,7 +144,7 @@ class _StatusFilterChips extends StatelessWidget {
             child: Text(
               label,
               style: Theme.of(context).textTheme.labelLarge?.copyWith(
-                    color: isSelected ? const Color(0xFF1A1206) : AppDark.textSecondary,
+                    color: isSelected ? const Color(0xFF000000) : AppDark.textSecondary,
                     fontWeight: FontWeight.w800,
                   ),
             ),
@@ -508,7 +508,7 @@ class _CreateTenantDialogState extends ConsumerState<_CreateTenantDialog> {
                     onPressed: _saving ? null : _save,
                     style: FilledButton.styleFrom(
                       backgroundColor: Colors.transparent,
-                      foregroundColor: const Color(0xFF120D04),
+                      foregroundColor: const Color(0xFF000000),
                       shadowColor: Colors.transparent,
                       padding: const EdgeInsets.symmetric(vertical: 16),
                     ),
@@ -516,7 +516,7 @@ class _CreateTenantDialogState extends ConsumerState<_CreateTenantDialog> {
                         ? const SizedBox(
                             width: 18,
                             height: 18,
-                            child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF1A1206)),
+                            child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF000000)),
                           )
                         : const Text('Oluştur', style: TextStyle(fontWeight: FontWeight.w900)),
                   ),

@@ -245,7 +245,7 @@ class _SmartPaymentSheetState extends ConsumerState<SmartPaymentSheet> with Sing
                         gradient: AppDark.accentGradient,
                         borderRadius: BorderRadius.circular(16),
                       ),
-                      child: const Icon(Icons.account_balance_wallet_rounded, color: Color(0xFF1A1206)),
+                      child: const Icon(Icons.account_balance_wallet_rounded, color: Color(0xFF000000)),
                     ),
                   ],
                 ),
@@ -344,7 +344,7 @@ class _PaymentTabBar extends StatelessWidget {
             gradient: AppDark.accentGradient,
             borderRadius: BorderRadius.circular(999),
           ),
-          labelColor: const Color(0xFF1A1206),
+          labelColor: const Color(0xFF000000),
           unselectedLabelColor: AppDark.textSecondary,
           labelStyle: const TextStyle(fontWeight: FontWeight.w800, fontSize: 12.5),
           unselectedLabelStyle: const TextStyle(fontWeight: FontWeight.w700, fontSize: 12.5),
@@ -713,7 +713,7 @@ class _PayButtonBar extends StatelessWidget {
             onPressed: enabled ? onPay : null,
             style: FilledButton.styleFrom(
               backgroundColor: Colors.transparent,
-              foregroundColor: const Color(0xFF120D04),
+              foregroundColor: const Color(0xFF000000),
               shadowColor: Colors.transparent,
               padding: const EdgeInsets.symmetric(vertical: 18),
             ),
@@ -721,7 +721,7 @@ class _PayButtonBar extends StatelessWidget {
                 ? const SizedBox(
                     width: 22,
                     height: 22,
-                    child: CircularProgressIndicator(strokeWidth: 2.4, color: Color(0xFF1A1206)),
+                    child: CircularProgressIndicator(strokeWidth: 2.4, color: Color(0xFF000000)),
                   )
                 : Text(amountLabel, style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 16)),
           ),
@@ -751,7 +751,7 @@ class _CheckDot extends StatelessWidget {
       ),
       child: disabled
           ? const Icon(Icons.lock_rounded, size: 13, color: AppDark.textSecondary)
-          : (selected ? const Icon(Icons.check_rounded, size: 16, color: Color(0xFF1A1206)) : null),
+          : (selected ? const Icon(Icons.check_rounded, size: 16, color: Color(0xFF000000)) : null),
     );
   }
 }

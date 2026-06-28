@@ -124,7 +124,7 @@ class _RestaurantOwnerShellState extends ConsumerState<RestaurantOwnerShell> {
                           gradient: AppDark.accentGradient,
                           borderRadius: BorderRadius.circular(16),
                         ),
-                        child: const Icon(Icons.storefront_rounded, color: Color(0xFF1A1206)),
+                        child: const Icon(Icons.storefront_rounded, color: Color(0xFF000000)),
                       ),
                       const SizedBox(width: 12),
                       Expanded(
@@ -175,7 +175,7 @@ class _RestaurantOwnerShellState extends ConsumerState<RestaurantOwnerShell> {
                             ? const SizedBox(
                                 width: 16,
                                 height: 16,
-                                child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF1A1206)),
+                                child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF000000)),
                               )
                             : const Icon(Icons.refresh_rounded),
                         label: const Text('Yükle', style: TextStyle(fontWeight: FontWeight.w800)),

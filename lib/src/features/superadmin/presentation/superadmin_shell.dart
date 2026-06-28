@@ -162,7 +162,7 @@ class _Sidebar extends ConsumerWidget {
                   gradient: AppDark.accentGradient,
                   borderRadius: BorderRadius.circular(12),
                 ),
-                child: const Icon(Icons.shield_moon_rounded, color: Color(0xFF1A1206)),
+                child: const Icon(Icons.shield_moon_rounded, color: Color(0xFF000000)),
               ),
               const SizedBox(width: 12),
               Expanded(

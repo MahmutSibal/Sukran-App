@@ -339,7 +339,7 @@ class _IdleScanPanel extends StatelessWidget {
                 onPressed: onActivate,
                 style: FilledButton.styleFrom(
                   backgroundColor: Colors.transparent,
-                  foregroundColor: const Color(0xFF120D04),
+                  foregroundColor: const Color(0xFF000000),
                   shadowColor: Colors.transparent,
                   padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 16),
                 ),

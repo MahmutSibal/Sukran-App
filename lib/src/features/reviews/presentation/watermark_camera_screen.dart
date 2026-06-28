@@ -177,7 +177,7 @@ class _WatermarkCameraScreenState extends State<WatermarkCameraScreen> {
                 ),
                 child: _capturing
                     ? const Padding(padding: EdgeInsets.all(20), child: CircularProgressIndicator(strokeWidth: 2))
-                    : const Icon(Icons.camera_alt_rounded, color: Color(0xFF1A1206), size: 30),
+                    : const Icon(Icons.camera_alt_rounded, color: Color(0xFF000000), size: 30),
               ),
             ),
           ),
@@ -230,11 +230,11 @@ class _WatermarkCameraScreenState extends State<WatermarkCameraScreen> {
                   onPressed: _saving ? null : _useShot,
                   style: FilledButton.styleFrom(
                     backgroundColor: AppDark.accent,
-                    foregroundColor: const Color(0xFF1A1206),
+                    foregroundColor: const Color(0xFF000000),
                     padding: const EdgeInsets.symmetric(vertical: 14),
                   ),
                   icon: _saving
-                      ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF1A1206)))
+                      ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2, color: Color(0xFF000000)))
                       : const Icon(Icons.check_rounded),
                   label: Text(_saving ? 'İşleniyor...' : 'Kullan'),
                 ),
